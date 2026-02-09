@@ -220,7 +220,5 @@ For major changes, please open an issue first to discuss the proposed update.
 
 ---
 
-## 📜 License  
-No license is currently specified.  
-If you plan to make the project public, consider adding one (MIT, Apache 2.0, etc.).
+
 
